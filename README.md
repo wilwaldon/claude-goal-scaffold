@@ -47,6 +47,10 @@ Every condition in your `/goal` command must be provable from terminal output. T
 - [Claude Code](https://docs.anthropic.com/en/docs/claude-code) 2.1.139 or later
 - A Claude Pro, Max, or Team plan
 
+## About Wil
+
+Built by [Wil Waldon](https://wilwaldon.com). I run [Frontier AI Labs](https://www.youtube.com/@FrontierAILabs) on YouTube and a community of the same name on Skool, focused on using Claude and AI tools to start and grow businesses. 1,700+ hours logged in Claude Code.
+
 ## License
 
 MIT
